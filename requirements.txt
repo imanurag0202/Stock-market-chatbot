@@ -1,0 +1,12 @@
+yfinance
+numpy
+pandas
+feedparser
+prophet
+matplotlib
+transformers
+torch
+requests
+groq
+python-dotenv
+colorama
