@@ -58,13 +58,11 @@ Miscellaneous:
 
 - python-dotenv (for environment variable management)
 
-colorama (for terminal output styling)
+- colorama (for terminal output styling)
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
+- Backend: python
+- Database: NASDAQ + NSE
 - APIs: Groq
-- Hosting:
 
 ### Sponsor Technologies Used (if any):
 - ✅ **Groq:** Groq is used to accelerate machine learning models by providing high-performance inference. Although it’s not directly involved in the core functionalities of stock data analysis and forecasting, it can be integrated for improving the processing speed of large-scale sentiment analysis or financial model predictions. 
@@ -100,9 +98,9 @@ colorama (for terminal output styling)
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- Python-3.12 (tested)
+- GROQ_API_KEY = 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
+- .env file setup (required)
 
 ### Local Setup:
 ```bash
